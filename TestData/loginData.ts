@@ -1,0 +1,11 @@
+export const user={
+    loginPageData:{
+        username:'Admin',
+        password:'admin123',
+        title:'OrangeHRM'
+    },
+
+    homePageData:{},
+    logoutPageData:{}
+
+};
